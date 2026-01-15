@@ -1,7 +1,5 @@
 La vida de Brian
-<<<<<<< HEAD
 Monty Python and the Holy Grail
-=======
-Una altra pel·lícula (Joan)
->>>>>>> origin/main
-Una altra pel·lícula (Joan 2)
+El sentit de la vida
+Una altra pel·lícula
+
